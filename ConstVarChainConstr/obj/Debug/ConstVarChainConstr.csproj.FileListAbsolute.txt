@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\obj\Debug\ConstVarChainConstr.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\obj\Debug\ConstVarChainConstr.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\bin\Debug\ConstVarChainConstr.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\bin\Debug\ConstVarChainConstr.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\bin\Debug\ConstVarChainConstr.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\obj\Debug\ConstVarChainConstr.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ConstVarChainConstr\ConstVarChainConstr\obj\Debug\ConstVarChainConstr.pdb
